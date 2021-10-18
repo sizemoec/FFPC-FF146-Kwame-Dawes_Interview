@@ -1,0 +1,54 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "FF146" ] },
+    "homepage": [
+      {
+        "id": "https://commons.lib.jmu.edu/ffpc-2004/15/",
+        "type": "Text",
+        "label": { "en": [ "FF146" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://commons.lib.jmu.edu",
+        "type": "Agent",
+        "label": { "en": [ "JMU Libraries" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1923,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+        ],
+        "items": [
+          {
+            "id": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 1923
+                },
+                "target": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
