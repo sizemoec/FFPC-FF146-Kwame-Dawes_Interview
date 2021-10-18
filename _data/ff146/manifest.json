@@ -30,6 +30,12 @@
             "id": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/canvas-1/canvas/transcription.json",
             "label": "Transcription"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC-FF146-Kwame-Dawes_Interview/ff146/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
         ],
         "items": [
           {
