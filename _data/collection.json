@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Kwame Dawes Interview, 09/25/2004" ] },
+    "summary": { "en": [ "Kwame Dawes is a prolific poet, teacher, and organizer that works closely with the communities he finds himself a part of. He has published twenty books of poetry to date, and has received several awards for his work, including the Pushcart Prize for poetry, and an Emmy for his documentary work. \r\n    In this interview from the 2004 Furious Flower Poetry Conference, Dawes discusses his experience of early reggae in 1970s Jamaica, the political climate he grew up in, underrepresentation of African Americans in the publishing industry, and his passion for teaching and organizing writing communities.\r\n" ] },
+    "items": [
+    ]
+}
