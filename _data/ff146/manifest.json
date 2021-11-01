@@ -53,7 +53,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": " https://dl.dropboxusercontent.com/s/5i82pa2bumczn6a/FF146.mp3?raw=1",
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF146.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
                     "duration": 1923
